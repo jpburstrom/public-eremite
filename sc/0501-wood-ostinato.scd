@@ -1,21 +1,21 @@
 
 
-{ Mix(BPF.ar(Impulse.ar(2), 60, 20)) ! 2}.play
+{ Mix(Decay.ar(Impulse.ar([40, 48].midicps ), MouseX.kr(0, 0.1), 0.2)) ! 2}.play
 
 { Mix(SinOsc.ar([50, 67].midicps )) ! 2 * 0.4}.play
 
 Ndef(\low, { SinOsc.ar([51.4, 52, 50, 38].midicps , mul:0.1) }).play
 Ndef(\low).stop
 (
-Tdef(\hello, {
-    7.do {
-        Ndef(\high, { SinOsc.ar(88.0.rrand(99).midicps, 0, 0.1) }).play;
-        0.05.wait;
-    };
-    Ndef(\high).stop
-}).play
+fork {
+    loop {
+        Ndef(\high, { SinOsc.ar(68.0.rrand(70).midicps, 0, 0.1) }).play;
+        1.rrand(1.5).wait;
+        Ndef(\high).stop;
+        1.rrand(4).wait;
+    }
+}
 )
-Tdef(\hello).stop;
 
 (
 SynthDef(\sin2, {
@@ -23,6 +23,7 @@ SynthDef(\sin2, {
     snd = SinOsc.ar(\freq.kr, \amp.kr) * EnvGen.ar(Env.perc(0, \sustain.kr), doneAction:2);
     Out.ar(0, snd!2);
 })
+)
 
 
 (
@@ -97,8 +98,8 @@ Pbindef(\test4,
     \scale, Scale.lydian,
     \degree, Pxrand([[0, 3], [3, 4], [1, 6], [2, 6], [6, 3]], inf),
     \width, Pbrown(0.1, 0.9),
-    \octave, Pwhite(4, 5),
-    \dur, Prand([0.1, 0.2], inf),
+    \octave, Pwhite(3, 5),
+    \dur, Prand([0.4, 0.2], inf),
     \legato, Pwhite(0.2, 0.3),
     \release, 0.2,
     \lag, 0.02,
