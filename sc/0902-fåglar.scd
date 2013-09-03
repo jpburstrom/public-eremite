@@ -1,20 +1,3 @@
-// björktrast
-// gråsparv
-// koltrast
-// orre
-// tjäder
-// stor hackspett
-// rödhuvad hackspett
-// skogsduva
-// blåmes
-// domherre
-// talltita
-// gök
-// storspov
-// dvärguv
-// talgoxe
-// (ripa)
-
 //Talgoxe
 (
 SynthDef(\parusMajor, {
@@ -23,7 +6,7 @@ SynthDef(\parusMajor, {
         Env.asr(\attack.kr(0.01), \amp.kr(1), \release.kr(0.01), \curve.kr(-4)),
         \gate.kr(1), doneAction:2
     ));
-}).add
+}).add;
 )
 (
 Pseq([
@@ -57,3 +40,59 @@ Pseq([
     Pbind(\type, \rest, \dur, Pwhite(2.25, 15, 1))
 ], inf).play
 )
+
+//Gök
+(
+SynthDef(\cuculus, { arg pattack=1, pdecay=1, patime=0.1, pdtime=0.1;
+    var psustain = \sustain.kr(1);
+    var freq;
+    patime = patime * psustain;
+    pdtime = pdtime * psustain;
+    psustain = (psustain - patime - pdtime).max(0);
+    freq = \freq.kr(440) * EnvGen.kr(Env([pattack.poll,1,1,pdecay], [patime, psustain, pdtime]));
+
+    Out.ar(\outbus.kr(0),
+        SinOsc.ar(freq) + PinkNoise.ar(0.03)
+        * EnvGen.kr(
+            Env.asr(\attack.kr(0.01), \amp.kr(1), \release.kr(0.01), \curve.kr(-4)),
+            \gate.kr(1), doneAction:2
+        )
+    );
+}).add;
+);
+
+(
+Pseq([
+    Pbind(
+        \instrument, \cuculus,
+        \dur, 0.3,
+        \amp, 1,
+        \legato, Pseq([0.2, 0.55]),
+        \midinote, Pseq([75.5, 72]),
+        \attack, Pseq([0.3, 0.2]),
+        \release, 0.1,
+        \pattack, Pseq([0.97, 0.99]),
+        \patime, Pseq([0.2, 1]),
+        \pdtime, 0.2,
+        \pdecay, Pseq([0.95, 1])
+    ),
+    Pbind(\type, \rest, \dur, Pwhite(0.7, 0.9, 1))
+    ], inf
+    ).play
+);
+
+// gråsparv
+// björktrast
+// koltrast
+// orre
+// tjäder
+// stor hackspett
+// rödhuvad hackspett
+// skogsduva
+// blåmes
+// domherre
+// talltita
+// storspov
+// dvärguv
+// (ripa)
+
