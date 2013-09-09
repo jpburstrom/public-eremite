@@ -12,19 +12,21 @@ Tdef(\pod1, {
 (
 Pbindef(\podtest,
     \type, \pod,
+    \client, \pod2,
     \degree, Pwhite(0,12),
     \scale, Scale.partch_o1,
     //\root, Prand([0, 7], inf).stutter(6),
-    \octave, 5,
+    \octave, 4.4,
     \root, 0,
     \db, Pbrown(0, 3),
     \dur, Prand([0.25, 0.125], inf).stutter(7),
 ).play;
 )
-
+Tempo.tempo = 1
 (
 Pbindef(\podtest2,
-    \type, \pod2,
+    \type, \pod,
+    \client, \pod3,
     \degree, Pwhite(0,12),
     \scale, Scale.partch_o1,
     //\root, Prand([0, 7], inf).stutter(6),
@@ -35,11 +37,7 @@ Pbindef(\podtest2,
 ).play;
 )
 
-Event.addEventType(\pod, {
-    q.sendMsg("/freq", currentEnvironment.freq);
-    q.sendMsg("/amp", currentEnvironment.amp);
-    q.sendMsg("/on");
-})
+
 
 Event.addEventType(\pod2, {
     z.sendMsg("/freq", currentEnvironment.freq);

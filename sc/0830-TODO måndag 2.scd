@@ -38,7 +38,7 @@ Ndef(\resistance,
         var freq = [300,400,500,600, 700, 800] * 0.5;
         var snd = Splay.ar(Mix.fill(10, { VarSaw.ar(freq * LFNoise2.kr(0.1).range(0.95, 1.05), 0, 0.5) }), 1, 0.2 );
         var ffreq = \timbre.kr(0.8).linexp(0, 1, 20, 20000);
-        snd = snd * LFSaw.ar(8);
+        snd = snd * LFSaw.ar(Ndef(\tempo).kr * 8);
         snd = BLowPass4.ar(snd, 900, 1);
 
     }
@@ -154,12 +154,13 @@ Ndef(\weight_of_head,
 Ndef(\distance,
     {
         var snd = Splay.ar(Mix.fill(30, { Saw.ar(LFNoise0.kr(0.2).range(40, 404)) }), 1, 0.8 );
-        snd = snd * Decay.ar(Impulse.ar(4), 1);
+        snd = snd * Decay.ar(Impulse.ar(Ndef(\tempo).kr * 2), 3 / Ndef(\tempo).kr );
         snd = BLowPass4.ar(snd, LFNoise2.ar(Rand(0.2, 0.6)).exprange(2000, 5500), 0.4);
     }
 
 ).play;
 )
+
 
 // 0,03	alive	diving	divided
 (

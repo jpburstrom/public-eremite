@@ -16,7 +16,6 @@ SynthDef(\eremiteSynth, {
     Out.ar(0, snd.dup);
 }).add;
 )
-VarSaw
 //
 // 3 timmar:
 // Kolla på score. Ca en minut per ord. Följ duration. 60 bpm.
