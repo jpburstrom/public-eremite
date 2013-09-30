@@ -7,7 +7,7 @@ var initFunc = { arg settings;
 
     q = Setup({
 
-        ~song = settings.song;
+        ~song = settings.song ? "setup";
         ~settings = settings;
 
         ~path = ().make({
@@ -42,15 +42,21 @@ var initFunc = { arg settings;
 
         //Library.put(\brstrm, \tmpDocDir, ~path.base +/+ "sandbox");
 
-        ~lastCall = Setup({"Done".postln}, \tree);
+        ~lastCall = Setup({
+            if(q.settings.resetStorage != true) {
+                q.dbg("Loading settings");
+                q.store.revertFromFile;
+            }
+        });
 
 
     });
 
     Toolbar.replace('-Q-');
     Toolbar.replace('Init', { initFunc.( q.settings.make { ~basePath = q.path.base } ) });
-    //Toolbar.replace('Store', { "Writing file".postln; q.store.writeToFile });
-
+    Toolbar.replace('Store', { q.store.writeToFile });
+    Toolbar.replace('Recall', { q.store.revertFromFile });
+    Toolbar.replace('Store', { "Writing file".postln; q.store.writeToFile });
 
 
 

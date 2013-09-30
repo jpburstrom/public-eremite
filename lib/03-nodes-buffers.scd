@@ -13,6 +13,8 @@ q.make({
         .do({ arg x, i; currentEnvironment[x] = Bus(\audio, i) });
 
 
+        ~test = Bus.audio(s, 2); //TEST
+
 
         //Jack outputs
         /*
@@ -33,7 +35,49 @@ q.make({
 
     }, \boot);
 
+    q.makeSetup(\ch, {
+        ~main = MixerChannel(\main, s, 2, 2);
+        ~table = MixerChannel(\table, s, 2, 2);
+        ~table.newPostSend(q.bus.test, 1); //TEST
 
+
+
+        ~makeBoard = {
+            ~mb.free;
+            ~mb = MixingBoard("CH", nil, ~mixerChannels.().asArray)
+        };
+
+        ~mixerChannels = {
+            currentEnvironment.select(_.isKindOf(MixerChannel));
+        };
+
+        ~saver = SimpleController(q).put(\store, e { arg s, wh, store;
+            store.ch = ();
+            ~mixerChannels.().keysValuesDo { arg k, v;
+                store.ch[k] = (
+                    controls: v.controls.collect(_.value),
+                    pre: ~table.preSends.collectAs({arg s; s.outbus.index -> s.level }, Event),
+                    post:~table.postSends.collectAs({arg s; s.outbus.index -> s.level }, Event)
+                )
+
+            };
+        }).put(\recall, e { arg s, wh, store;
+            ~mixerChannels.().keysValuesDo { arg k, v;
+                var env = store.ch[k];
+                env !? {
+                    v.setControls(env[\controls]);
+                    v.preSends.do({ |x|
+                        var lvl = env[\pre][x];
+                        lvl !? { x.level = lvl };
+                    });
+                    v.postSends.do({ |x|
+                        var lvl = env[\post][x];
+                        lvl !? { x.level = lvl };
+                    });
+                }
+            };
+        });
+    });
 
     //Buffers
     q.makeSetup(\buf, {

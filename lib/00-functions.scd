@@ -1,5 +1,6 @@
 q.make({
 
+
     ~dbg = { arg ... args;
         if (~settings.verbose == true) {
             args.join(", ").postln;
@@ -17,6 +18,7 @@ q.make({
         ControlSpec.specs[sym] = spec.asSpec;
     };
     (q.path.lib +/+ "helpers/synthDefFactory.scd").load;
+
 
     //Make control ( Synth + Bus ),
     ~makeCtl = { arg sym, defName, args, channels=1, type=\control;

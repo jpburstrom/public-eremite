@@ -53,25 +53,32 @@ q.make({
     };
 
     //Persistent storage thing, at q.store
-    if (File.exists(q.path.storage)) {
+    if (File.exists(q.path.storage) and: { q.settings.resetStorage != true }) {
         var z = ZArchive.read(q.path.storage);
         ~store = z.readItem(Event);
         z.close;
     }{
+        q.dbg("Resetting storage");
         ~store = (
             autoscale: (),
+            ch: (),
             revertFromFile: {
                 q.make {
                     var z = ZArchive.read(q.path.storage);
                     ~store = z.readItem(Event);
                     z.close;
-
-                }
+                    q.changed(\recall, q.store);
+                    "Settings loaded".postln;
+                };
+                q.store
             },
             writeToFile: {
                 var z = ZArchive.write(q.path.storage);
+                q.changed(\store, q.store);
                 z.writeItem(q.store);
                 z.writeClose;
+                "Settings stored".postln;
+
             }
         )
     }
