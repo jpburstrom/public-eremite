@@ -1,0 +1,268 @@
+0 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1186 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1135.96 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1140.08 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+5295.92 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1112 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1082.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+299.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1094.08 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+9113.92 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1110 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1153.96 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300.083 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1129.92 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300.083 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+9139.92 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1132.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+299.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1077.96 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.083 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1131.92 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.083 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1144 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+299.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+9302.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+299.917 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1160.08 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1104 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+12296 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1100.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1097.96 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+296 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1078 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1074 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+11300 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1159.92 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300.083 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1117.96 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1105.96 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300.083 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1125.96 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+7298.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+299.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1140.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.917 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1098.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1127.96 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1112.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+6296.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.917 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1124.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1183.92 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.083 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1116 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.917 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1082 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+296 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+11300.1 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+301.917 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1172.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+299.958 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1168.04 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+302.042 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1131.92 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300.083 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+1075.92 DIRECT cuculus amp 0.95 attack 0.1 dur 0.3 freq 640.487 legato
+0.1 midinote 75.5 patime 0.2 pattack 0.97 pdecay 0.95 pdtime 0.2 release
+0.1 sustain 0.03;
+300 DIRECT cuculus amp 0.95 attack 0.12 dur 0.3 freq 523.251 legato
+0.55 midinote 72 patime 1 pattack 0.99 pdecay 1 pdtime 0.2 release
+0.1 sustain 0.165;
+8000

@@ -1,0 +1,1010 @@
+0 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0104167 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0104167 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0104167 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.99 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0104167 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+249.99 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0104167 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+4501.99 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0104167 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.979 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0104167 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0104167 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0104167 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+249.99 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0104167 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0104167 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+3008 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0104167 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0104167 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+251.99 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+248 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+252 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+247.99 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0104167 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0104167 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+252 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+247.969 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+251.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+4752 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.979 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+250 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+13770 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.979 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+5552.02 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.979 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.958 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.958 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+10536 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250.021 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+12440 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.979 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+3171.96 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.979 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.979 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+9200 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.958 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0416667 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.979 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250.042 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+7541.96 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.958 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.958 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0416667 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.979 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25
+freq 4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+4382 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.979 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.979 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.979 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+7638 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+250.021 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.958 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+14548 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+11692 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.979 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.979 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+250.021 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+13446 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+250 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.958 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+11160 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.958 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.979 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+250 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25 freq
+4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0416667 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+11890 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+250 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25 freq
+4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.958 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.979 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+10376 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.979 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.979 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.958 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+11592 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+250.021 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.958 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.958 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.979 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+9747.98 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.979 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.958 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.979 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+4779.96 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.958 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+249.958 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+250 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25 freq
+4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.958 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+3267.96 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 0;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+0;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 1;
+249.979 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 2;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+2;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 3;
+249.979 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur 0.25
+freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0.0208333 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur
+0.25 freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+4;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 4;
+250 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25 freq
+3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 5;
+249.958 DIRECT parus amp 0.125893 attack 0.04 curve 0 db -18 dur 0.25
+freq 4521 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.446684 attack 0.06 curve 0 db -7 dur 0.25
+freq 4349 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0 DIRECT parus amp 0.0707946 attack 0.01 curve 0 db -23 dur 0.25 freq
+4780 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test 6;
+0.0208333 DIRECT parus amp 0.281838 attack 0.06 curve 0 db -11 dur
+0.25 freq 4143 glide 1.03 legato 0.4 release 0.05 sustain 0.1 test
+6;
+249.979 DIRECT parus amp 0.501187 attack 0.04 curve 0 db -6 dur 0.25
+freq 3531 glide 0.97 legato 0.4 release 0.05 sustain 0.1 test 7;
+11574 DUMMY BREAK

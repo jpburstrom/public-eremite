@@ -7,7 +7,7 @@ SynthDef(\parusMajor, {
         \gate.kr(1), doneAction:2
     ));
 }).add;
-)
+);
 (
 Pseq([
     Pbind(
@@ -83,24 +83,40 @@ Pseq([
     ).play
 );
 
-
-
 // gråsparv
 (
+(Pbind(
+    \instrument, \cuculus,
+    \type, \phone,
+    \phone, \POD2,
+    \dur, Pseq([0.03, 0.05], inf) * Pwhite(0.9, 1.1) * 0.7,
+    \legato, 1.5,
+    \midinote, Pseq([116.5, 111], inf) ,
+    \db, -10,
+    \attack, 0.1,
+    \decay, 0.1,
+    \pattack, 0.8 * Pwhite(0.9, 1.1),
+    \patime, 0.4,
+    \pdecay, 1.1 * Pwhite(0.9, 1.1),
+    \pdtime, Pseq([0.2])
+) ++
 Pbind(
     \instrument, \cuculus,
-    \delta, Phprand(1.551, 2.1),
-    \lag, [0, 0.01],
-    \dur, 0.171,
+    \type, \phone,
+    \phone, \POD2,
+    \delta, Phprand(1.551, 2.1) * 0.6,
+    //\lag, [0, 0.01],
+    \dur, 0.0171,
     \midinote, [106, 106.5] * Pwhite(0.99, 1.01),
+    \legato, 0.2,
     \db, -10,
     \attack, 0.07,
     \decay, 0.07,
     \pattack, Pwhite(0.6, 0.7),
-    \patime, 0.43,
+    \patime, 0.43 * 0.5,
     \pdecay, Pwhite(0.6, 0.7),
-    \pdtime, 0.28
-).play
+    \pdtime, 0.28 * 0.5
+)).trace.play
 )
 
 // björktrast
@@ -110,6 +126,8 @@ Pbind(
 (
 Pbind(
     \instrument, \cuculus,
+    \type, \phone,
+    \phone, \POD2,
     \dur, Pseq([0.3, 0.4, 0.5]),
     \freq, Pseq([1937.dup, 2174.dup, [2572, 2620]]),
     \strum, Pwhite(0.01, 0.05),
@@ -127,6 +145,8 @@ Pbind(
 (
 Pbind(
     \instrument, \cuculus,
+    \type, \phone,
+    \phone, \POD2,
     \dur, Pseq([0.03, 0.05], inf) * Pwhite(0.9, 1.1) * 0.7,
     \legato, 1.5,
     \midinote, Pseq([116.5, 111], inf) ,
@@ -144,6 +164,8 @@ Pbind(
 (
 Pbind(
     \instrument, \cuculus,
+    \type, \phone,
+    \phone, \POD2,
     \dur, Pwhite(0.01, 0.02),
     \legato, 1.5,
     \freq, p { var x = { 2300.rrand(4000) } ! 10; loop { x.yield } } * Pwhite(1, 2),
@@ -181,10 +203,22 @@ SynthDef(\hackspett, {
     snd = (5 * HPF.ar(Decay.ar(Impulse.ar(\speed.kr(20)), 1), 1000)).softclip;
     snd = Klank.ar(`[wood2.kfreq, wood2.kamp * \preamp.kr(0.1), wood2.kres], snd, \freq.kr(500), 0, \wetness.kr(0.1)).distort
     * Linen.kr(\gate.kr(1), \attack.kr(0), \amp.kr(1), \release.kr(0), doneAction:2);
-    OffsetOut.ar(\out.kr(0), snd.dup);
+    OffsetOut.ar(\outbus.kr(0), snd);
 }).add
 )
-(instrument:\hackspett).play
+(
+Pbindef(\hackspett,
+    \instrument, \hackspett,
+    \outbus, 4,
+    \preamp, 1,
+    \dur, Phprand(0.3, 1.2),
+    \delta, Pwhite(7, 20),
+    \amp, 0.6
+)
+)
+Pdef(\hackspett).play;
+
+
 
 (
 

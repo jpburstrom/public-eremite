@@ -12,6 +12,7 @@ q.make({
         currentEnvironment[sym] = Setup(func, rebuildOn);
         //So we can support settings[\setupSym]
         currentEnvironment[sym].makeAdd(q.settings[sym]);
+        currentEnvironment[sym];
     };
 
     ~makeSpec = { arg sym, spec;

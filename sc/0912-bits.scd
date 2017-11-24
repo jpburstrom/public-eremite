@@ -85,6 +85,25 @@ Ndef(\bass2).stop
 }.play;
 )
 
-
-
-
+(
+//Breakbeat, maybe
+{ arg p1=0.01, p2=3;
+    var bits = (2 ** 8).asInt;
+    var bitsdiv = 1 / (bits);
+    var trig = Impulse.ar(2e04);
+    var t = (PulseCount.ar(trig));
+    var rand = TRand.ar(8, 9, Impulse.ar(1)).floor;
+    var snd = 0;
+    var c = [0, 1];
+    //snd = ((t>>12).bitXor((t>>12)-2))%11;
+    //snd = (t >> 12);
+    var x = t % 180;
+    t = t | (t >> 2 % 6553);
+    snd = ((x >> ((t >> 16) & 2 + 2))) & (t >> 8) & (t >> 9)
+    | ((x * (t >> ((c * 2)+3)) ) & 5)
+    ;
+    snd = ((((snd % bits) * bitsdiv)) * 8).softclip;
+    snd = RLPF.ar(snd, 4000, 0.1);
+    snd = HPF.ar(snd, 20);
+}.play;
+)

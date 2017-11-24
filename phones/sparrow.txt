@@ -1,0 +1,157 @@
+0 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.66608 dur 1 freq
+3640.5 lag 0 legato 0 midinote 105.583 patime 0.2 pattack 0.6 sustain
+0;
+0.0833333 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.66608 dur 1
+freq 3746.75 lag 0.01 legato 0 midinote 106.081 patime 0.2 pattack
+0.6 sustain 0;
+1668 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.96225 dur 1 freq
+3579.5 lag 0 legato 0 midinote 105.29 patime 0.2 pattack 0.6 sustain
+0;
+0 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.96225 dur 1 freq 3683.67
+lag 0.01 legato 0 midinote 105.787 patime 0.2 pattack 0.6 sustain 0
+;
+1959.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.02701 dur 1 freq
+3742.82 lag 0.01 legato 0 midinote 106.063 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.02701 dur 1
+freq 3636.7 lag 0 legato 0 midinote 105.565 patime 0.2 pattack 0.6
+sustain 0;
+2027.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.06642 dur 1 freq
+3969.93 lag 0.01 legato 0 midinote 107.082 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.06642 dur 1
+freq 3856.31 lag 0 legato 0 midinote 106.58 patime 0.2 pattack 0.6
+sustain 0;
+2067.92 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.75821 dur 1 freq
+3983.91 lag 0.01 legato 0 midinote 107.143 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.75821 dur 1
+freq 3869.82 lag 0 legato 0 midinote 106.64 patime 0.2 pattack 0.6
+sustain 0;
+1755.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.00609 dur 1 freq
+3755.94 lag 0 legato 0 midinote 106.123 patime 0.2 pattack 0.6 sustain
+0;
+0.0833333 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.00609 dur 1
+freq 3866.13 lag 0.01 legato 0 midinote 106.624 patime 0.2 pattack
+0.6 sustain 0;
+2007.92 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.8945 dur 1 freq
+3865.58 lag 0.01 legato 0 midinote 106.621 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.8945 dur 1
+freq 3755.41 lag 0 legato 0 midinote 106.121 patime 0.2 pattack 0.6
+sustain 0;
+1895.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.04209 dur 1 freq
+3637.28 lag 0 legato 0 midinote 105.567 patime 0.2 pattack 0.6 sustain
+0;
+0.0833333 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.04209 dur 1
+freq 3743.42 lag 0.01 legato 0 midinote 106.065 patime 0.2 pattack
+0.6 sustain 0;
+2043.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.78244 dur 1 freq
+3884.47 lag 0.01 legato 0 midinote 106.706 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.78244 dur 1
+freq 3773.67 lag 0 legato 0 midinote 106.205 patime 0.2 pattack 0.6
+sustain 0;
+1779.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.99491 dur 1 freq
+3611.89 lag 0.01 legato 0 midinote 105.446 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.99491 dur 1
+freq 3510.07 lag 0 legato 0 midinote 104.951 patime 0.2 pattack 0.6
+sustain 0;
+1995.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.95153 dur 1 freq
+3982.96 lag 0.01 legato 0 midinote 107.139 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.95153 dur 1
+freq 3868.9 lag 0 legato 0 midinote 106.636 patime 0.2 pattack 0.6
+sustain 0;
+1947.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.08051 dur 1 freq
+4041.36 lag 0.01 legato 0 midinote 107.391 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.08051 dur 1
+freq 3925.36 lag 0 legato 0 midinote 106.887 patime 0.2 pattack 0.6
+sustain 0;
+2083.92 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.95585 dur 1 freq
+3727.85 lag 0 legato 0 midinote 105.993 patime 0.2 pattack 0.6 sustain
+0;
+0.0833333 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.95585 dur 1
+freq 3837.08 lag 0.01 legato 0 midinote 106.493 patime 0.2 pattack
+0.6 sustain 0;
+1955.92 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.04436 dur 1 freq
+3692.42 lag 0.01 legato 0 midinote 105.828 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.04436 dur 1
+freq 3587.96 lag 0 legato 0 midinote 105.331 patime 0.2 pattack 0.6
+sustain 0;
+2044 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.81379 dur 1 freq
+3890.45 lag 0.01 legato 0 midinote 106.732 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.81379 dur 1
+freq 3779.46 lag 0 legato 0 midinote 106.231 patime 0.2 pattack 0.6
+sustain 0;
+1811.92 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.00068 dur 1 freq
+3879.27 lag 0.01 legato 0 midinote 106.683 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.00068 dur 1
+freq 3768.65 lag 0 legato 0 midinote 106.182 patime 0.2 pattack 0.6
+sustain 0;
+1999.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.87826 dur 1 freq
+3686.25 lag 0 legato 0 midinote 105.799 patime 0.2 pattack 0.6 sustain
+0;
+0.0833333 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.87826 dur 1
+freq 3794.06 lag 0.01 legato 0 midinote 106.298 patime 0.2 pattack
+0.6 sustain 0;
+1879.92 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.09016 dur 1 freq
+3708.59 lag 0 legato 0 midinote 105.904 patime 0.2 pattack 0.6 sustain
+0;
+0.0833333 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.09016 dur 1
+freq 3817.16 lag 0.01 legato 0 midinote 106.403 patime 0.2 pattack
+0.6 sustain 0;
+2087.92 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.9864 dur 1 freq
+3990.55 lag 0.01 legato 0 midinote 107.172 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.9864 dur 1
+freq 3876.24 lag 0 legato 0 midinote 106.669 patime 0.2 pattack 0.6
+sustain 0;
+1988.04 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.85334 dur 1 freq
+3656.53 lag 0 legato 0 midinote 105.659 patime 0.2 pattack 0.6 sustain
+0;
+0 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.85334 dur 1 freq 3763.33
+lag 0.01 legato 0 midinote 106.157 patime 0.2 pattack 0.6 sustain 0
+;
+1851.92 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.65114 dur 1 freq
+3596.96 lag 0 legato 0 midinote 105.374 patime 0.2 pattack 0.6 sustain
+0;
+0.0833333 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.65114 dur 1
+freq 3701.73 lag 0.01 legato 0 midinote 105.871 patime 0.2 pattack
+0.6 sustain 0;
+1651.92 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.96857 dur 1 freq
+3803.14 lag 0 legato 0 midinote 106.339 patime 0.2 pattack 0.6 sustain
+0;
+0.0833333 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.96857 dur 1
+freq 3914.94 lag 0.01 legato 0 midinote 106.841 patime 0.2 pattack
+0.6 sustain 0;
+1967.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.81424 dur 1 freq
+3636.52 lag 0.01 legato 0 midinote 105.564 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.81424 dur 1
+freq 3533.89 lag 0 legato 0 midinote 105.068 patime 0.2 pattack 0.6
+sustain 0;
+1811.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.05373 dur 1 freq
+3787.94 lag 0.01 legato 0 midinote 106.27 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 2.05373 dur 1
+freq 3680.33 lag 0 legato 0 midinote 105.771 patime 0.2 pattack 0.6
+sustain 0;
+2055.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.79973 dur 1 freq
+3857.5 lag 0.01 legato 0 midinote 106.585 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.79973 dur 1
+freq 3747.6 lag 0 legato 0 midinote 106.085 patime 0.2 pattack 0.6
+sustain 0;
+1799.96 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.7586 dur 1 freq
+3648.07 lag 0.01 legato 0 midinote 105.619 patime 0.2 pattack 0.6 sustain
+0;
+0.0416667 DIRECT cuculus amp 1 attack 0.07 db 0 delta 1.7586 dur 1
+freq 3545.06 lag 0 legato 0 midinote 105.123 patime 0.2 pattack 0.6
+sustain 0;
+2000

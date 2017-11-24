@@ -2,16 +2,21 @@
 q.make({
     "Loading server stuff".postln;
 
+
     //Buses
     q.makeSetup(\bus, {
+
+        StageLimiter.activate([2,6]);
+
 
         //~anaIn = Bus.audio(s, 1)
 
         //Buses
         //Map first 8 channels to names (q.bus.left etc)
+        /*
         #[left, right, table, audience, forest1, forest2, forest3, forest4]
         .do({ arg x, i; currentEnvironment[x] = Bus(\audio, i) });
-
+        */
 
         ~test = Bus.audio(s, 2); //TEST
 
@@ -36,24 +41,32 @@ q.make({
     }, \boot);
 
     q.makeSetup(\ch, {
-        ~main = MixerChannel(\main, s, 2, 2);
-        ~table = MixerChannel(\table, s, 2, 2);
-        ~table.newPostSend(q.bus.test, 1); //TEST
+        //Mixerchannels take care of their own loading
+        //There seems to be a bug where levels are not reset after reboot
+        //So best is to re-init entire q tree after reboot.
 
+        ~outs = [
+            'main', 0, 2,
+            'table', 2, 1,
+            'audience', 3, 1,
+            'forest1', 4, 1,
+            'forest2', 5, 1,
+            'forest3', 6, 1,
+            'forest4', 7, 1
+        ].clump(3);
 
-
-        ~makeBoard = {
-            ~mb.free;
-            ~mb = MixingBoard("CH", nil, ~mixerChannels.().asArray)
+        ~outs.do { arg x;
+            var n, out, ch;
+            #n, out, ch = x;
+            currentEnvironment[n] = MixerChannel(n, s, ch, ch, outbus:out);
         };
 
-        ~mixerChannels = {
-            currentEnvironment.select(_.isKindOf(MixerChannel));
-        };
+
+        ~mixerChannels = currentEnvironment.select(_.isKindOf(MixerChannel));
 
         ~saver = SimpleController(q).put(\store, e { arg s, wh, store;
             store.ch = ();
-            ~mixerChannels.().keysValuesDo { arg k, v;
+            ~mixerChannels.keysValuesDo { arg k, v;
                 store.ch[k] = (
                     controls: v.controls.collect(_.value),
                     pre: ~table.preSends.collectAs({arg s; s.outbus.index -> s.level }, Event),
@@ -62,7 +75,7 @@ q.make({
 
             };
         }).put(\recall, e { arg s, wh, store;
-            ~mixerChannels.().keysValuesDo { arg k, v;
+            ~mixerChannels.keysValuesDo { arg k, v;
                 var env = store.ch[k];
                 env !? {
                     v.setControls(env[\controls]);
@@ -100,7 +113,7 @@ q.make({
 
     }, \boot);
 
-
+    /*
 
     //Server Groups
     q.makeSetup(\grp, {
@@ -113,7 +126,7 @@ q.make({
     }, \tree);
 
     //inputs (
-    /*
+
     q.makeSetup(\inputs, {
 
         Synth(\soundIn, [\bus, 0, \outbus, q.bus.anaIn], q.grp.in);

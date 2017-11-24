@@ -208,6 +208,9 @@ Ndef(\attack,
 ).play;
 )
 
+NdefMixer(s)
+Volume(s).gui
+
 // 0,06	flow	feeling	wave
 (
 Ndef(\flow,

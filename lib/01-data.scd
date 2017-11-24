@@ -1,4 +1,4 @@
-
+//Language-domain data
 q.make({
 
     q.dbg("Loading data");
@@ -13,6 +13,7 @@ q.make({
     Spec.specs[\dur] = \slope.asSpec;
     Spec.specs[\curve] = NoLagControlSpec(-20, 20);
 
+    //MIXERS
     //Mix down 2>1
     MixerChannelDef(\mix2x1, 2, 1,
         SynthDef("mixers/Mxb2x1", {
